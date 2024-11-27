@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GambuliGabrielle
 - 📕 I'm a Economist Postdoc Research Fellow at Université Gustave Eiffel - GRETTIA and INSEE - SSP Lab.
-- 👀 I’m interested in Economic Geography, Regional Development, Transportation, Telework, Data Collection and Analysis
+- 👀 I’m interested in Economic Geography, Regional Development, Transportation, Telework, and Data Collection and Analysis in general.
 - 🌱 I’m currently working on MobiTIC ANR project with Etienne Côme and Marie-Pierre Joubert. 
 - 📫 How to reach me: gabrielle.gambuli@gmail.com
